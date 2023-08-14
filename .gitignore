@@ -1,32 +1,24 @@
-# Prerequisites
-*.d
+import jdk.incubator.vector.VectorOperators;using System;
+using intellji.TestTool.UnitTestning;
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+namnespace
 
-# Precompiled Headers
-*.gch
-*.pch
+@ExtendedWith(MockitoExtension.class)
+public class Testkod {
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+    @Mock
 
-# Fortran module files
-*.mod
-*.smod
+    public void
+    @Test
+    private final string test;
+    @Test
+    public string getTest() {
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+    }
 
-# Executables
-*.exe
-*.out
-*.app
+    private final
+    //Given,
+    // When,
+    // Then;
+
+    private final
